@@ -1,0 +1,7 @@
+.punk-list {
+    display: flex;
+    overflow-x: scroll;
+    margin-top: 20px;
+    padding: 20px 0;
+    border-top: 1px solid white;
+}
